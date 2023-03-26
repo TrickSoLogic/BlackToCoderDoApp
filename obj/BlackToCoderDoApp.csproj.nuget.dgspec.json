@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\black-coder\\Desktop\\GIT Edit\\1New GIT Upload List proj\\TodoApi\\BlackToCoderDoApp.csproj": {}
+    "D:\\1Uploaded to Git files\\BlackToCoderDoApp\\BlackToCoderDoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\black-coder\\Desktop\\GIT Edit\\1New GIT Upload List proj\\TodoApi\\BlackToCoderDoApp.csproj": {
+    "D:\\1Uploaded to Git files\\BlackToCoderDoApp\\BlackToCoderDoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\black-coder\\Desktop\\GIT Edit\\1New GIT Upload List proj\\TodoApi\\BlackToCoderDoApp.csproj",
+        "projectUniqueName": "D:\\1Uploaded to Git files\\BlackToCoderDoApp\\BlackToCoderDoApp.csproj",
         "projectName": "BlackToCoderDoApp",
-        "projectPath": "C:\\Users\\black-coder\\Desktop\\GIT Edit\\1New GIT Upload List proj\\TodoApi\\BlackToCoderDoApp.csproj",
+        "projectPath": "D:\\1Uploaded to Git files\\BlackToCoderDoApp\\BlackToCoderDoApp.csproj",
         "packagesPath": "C:\\Users\\black-coder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\black-coder\\Desktop\\GIT Edit\\1New GIT Upload List proj\\TodoApi\\obj\\",
+        "outputPath": "D:\\1Uploaded to Git files\\BlackToCoderDoApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VNfqAwNFpv/2cnqJWlOsx5QjoAVMd13c5bwco491cpHcg3S40X1IfIOZtCZzzjlA5NBtsfZ+pZiYEnK1m4d5tQ==",
+  "dgSpecHash": "QQD7wJFXVbEqqDjegCKR6iReG+30NQkzOjkLldg8VNgSmSQZT1ejYmF/FIupezBIMDi4jHHSz2QteyFKVi8W9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\black-coder\\Desktop\\GIT Edit\\1New GIT Upload List proj\\TodoApi\\BlackToCoderDoApp.csproj",
+  "projectFilePath": "D:\\1Uploaded to Git files\\BlackToCoderDoApp\\BlackToCoderDoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\black-coder\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\black-coder\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
